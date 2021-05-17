@@ -1,0 +1,11 @@
+.vscode
+.mypy_cache
+.pytest_cache
+dist
+.env
+node_modules
+env
+
+*.abi
+*.bin
+*.pyc

@@ -1,0 +1,17 @@
+# Flask-specific dependencies
+flask
+flask-sqlalchemy
+flask-migrate
+flask-shell-ipython
+
+# Extra dependencies
+python-dotenv
+roman-discovery
+
+# Ethereum dependencies
+web3
+
+# Development dependencies
+mypy
+flake8
+pytest

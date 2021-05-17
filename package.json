@@ -1,0 +1,14 @@
+{
+  "name": "ethereum-playground",
+  "version": "1.0.0",
+  "description": "My Ethereum Playground",
+  "main": "index.js",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
